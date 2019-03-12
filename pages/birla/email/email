@@ -1,0 +1,21 @@
+class EmailTasksManagement extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+
+   render() {
+    return (
+      <div>
+        <Card>
+          <CardBody>
+            <GridContainer>
+              "Hricha Kabir"
+            </GridContainer>
+          </CardBody>
+        </Card>
+      </div>
+    );
+  }
+}
+
+    
